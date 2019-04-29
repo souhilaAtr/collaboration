@@ -1,6 +1,7 @@
 <?php
 
 echo " hello";
+echo " bonjour";
 ?>
 
 <!DOCTYPE html>
@@ -8,7 +9,7 @@ echo " hello";
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">   
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Titre du site</title>
     <link rel="stylesheet" href="asset/style.css">
 </head>
@@ -26,4 +27,3 @@ echo " hello";
 
 </body>
 </html>
-
