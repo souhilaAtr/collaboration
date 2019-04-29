@@ -1,5 +1,7 @@
 <?php
-
+<<<<<<< HEAD
+echo " hello";
+?>
 ?>
 <!DOCTYPE html>
 <html lang="fr">
@@ -20,3 +22,6 @@
 
 </body>
 </html>
+=======
+
+>>>>>>> fbf2e610d040127255e800ba955113dc419ab684
